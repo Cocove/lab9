@@ -8,6 +8,12 @@
 <head>
 <title>Главная страница</title>
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+	<style>
+		body{
+			background-image:url('https://static.runoob.com/images/mix/paper.gif');
+			background-color:#cccccc;
+		}
+	</style>
 </head>
 <body>
 
